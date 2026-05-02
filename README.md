@@ -30,4 +30,5 @@ A Single Page Application (SPA) dictionary built using HTML, CSS, and JavaScript
 
 ## License
 
-No Licence
+(e.g., MIT License - you can choose a license or leave it as "No License")
+

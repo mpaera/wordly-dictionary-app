@@ -1,3 +1,4 @@
+
     const searchForm = document.getElementById('search-form');
     const searchInput = document.getElementById('search-input');
     const resultsDiv = document.getElementById('results');
@@ -64,7 +65,7 @@
 
             resultsDiv.appendChild(wordDiv);
         });
-    
+    }
 
 
     // Function to display error messages
@@ -88,4 +89,3 @@
         const word = searchInput.value.trim(); // Get the word and trim whitespace
         searchWord(word);
     });
-
