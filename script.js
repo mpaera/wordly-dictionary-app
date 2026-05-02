@@ -64,7 +64,7 @@
 
             resultsDiv.appendChild(wordDiv);
         });
-    }
+    
 
 
     // Function to display error messages
